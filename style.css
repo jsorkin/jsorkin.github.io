@@ -1,5 +1,5 @@
     * {
-  font-family: 'Comic Sans'; 
+  
 }
 
 a {
@@ -14,8 +14,14 @@ img {
 
 h1 {
   color: Crimson;
+  font-size: 50px;
+  font-family: "Shadows Into Light"; 
+  background-color: rgb(255, 169, 147);
 }
 
 p {
   color: Magenta;
+  font-size: 20px;
+  font-family: Fruktur;
+  background-color: rgb(79, 83, 114);
 }
