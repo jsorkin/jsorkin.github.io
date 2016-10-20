@@ -10,6 +10,7 @@ a {
   text-decoration: none;
   font-size: 30px;
   color: #d6ffaf;
+  font-family: "Kdam Thmor"
 }
 
 img {
@@ -31,6 +32,15 @@ p {
   color: Magenta;
   font-size: 20px;
   font-family: Fruktur;
+  background-color: rgb(79, 83, 114);
+  letter-spacing: 0.1em;
+  text-align: center;
+}
+
+#crazy {
+  color: Magenta;
+  font-size: 20px;
+  font-family: "Fredericka the Great";
   background-color: rgb(79, 83, 114);
   letter-spacing: 0.1em;
   text-align: center;
