@@ -4,12 +4,12 @@
 
 a {
   text-decoration: none;
+  text-size: 30px;
+  color: White;
 }
 
 img {
   border-radius: 50%;
-  text-size: 30px;
-  color: White;
 }
 
 h1 {
