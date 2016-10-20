@@ -2,6 +2,10 @@
   
 }
 
+body {
+  background: #d6ffaf;
+}
+
 a {
   text-decoration: none;
   font-size: 30px;
@@ -17,6 +21,9 @@ h1 {
   font-size: 50px;
   font-family: "Shadows Into Light"; 
   background-color: rgb(255, 169, 147);
+  text-align: right;
+  letter-spacing: 0.5em;
+  font-weight: 700;
 }
 
 p {
@@ -24,4 +31,5 @@ p {
   font-size: 20px;
   font-family: Fruktur;
   background-color: rgb(79, 83, 114);
+  letter-spacing: 0.1em;
 }
